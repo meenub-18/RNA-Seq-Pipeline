@@ -1,0 +1,16 @@
+Inputs: Raw reads, Annotations, Reference seq.
+
+Quality Control: Fastqc
+
+Adaptor Trimming: Trimmometer, cutadapt, Flexbar
+Quality Trimming:
+
+Mapping: STAR, Hiset2, Tophat
+
+Transcript Assembly: Cufflinks, Cuffmerge
+
+Feature count/Abundance estimation: FeatureCounts
+
+Expression Analysis: EdgeR. DEseq2
+
+
