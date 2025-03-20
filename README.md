@@ -1,2 +1,3 @@
-# RNA-Seq-Pipeline
-RNA-Seq Data Analysis
+# RNA-Seq-Pipeline (Bulk-RNA, ScRNA, Spatial Transcriptome)
+This repository covers Bulk RNA_Seq, Single-cell RNA-Seq, and Spatial transcriptomics data analysis using different datasets. 
+Single-cell and Spatial RNA-Seq techniques have evolved to deepen the understanding of gene expression within a particular individual cell or to check where exactly the cell is located and where the activity is occurring within the tissue. These advanced techniques provide a detailed view of cellular heterogeneity within the samples and reveal the composition of different cell types and functions in tissue. We can study how cells differentiate and interact with each other. Single-cell analysis and spatial transcriptome uncover various biological processes and molecular mechanisms of disease that might not be detected by any other methods.
